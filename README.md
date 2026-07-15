@@ -1,23 +1,24 @@
-Carlos Alonso Rondoni
+### Carlos Alonso Rondoni
 
 Senior Backend Engineer
 
 Building distributed systems with Go and Rust.
 
-Currently interested in:
 
-• Go
-• Rust
-• Kubernetes
-• AI Platforms
-• Distributed Systems
+### Currently interested in:
 
-## Current project
+- Go
+- Rust
+- Kubernetes
+- AI Platforms
+- Distributed Systems
+
+### Current project
 
 
-→ RAG Service
+- RAG Service
 
-## Pinned projects
+### Pinned projects
 
-→ LLM Agent
-→ Go Basic Env
+- LLM Agent
+- Go Basic Env
