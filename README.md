@@ -8,13 +8,10 @@ Building distributed systems with Go and Rust.
 ### Currently interested in:
 
 - Go
-- Rust
-- Kubernetes
 - AI Platforms
 - Distributed Systems
 
 ### Current project
-
 
 - RAG Service
 
